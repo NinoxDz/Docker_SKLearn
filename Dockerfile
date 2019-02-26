@@ -1,5 +1,5 @@
 FROM dpatriot/docker-s3-runner:1.4.0
-MAINTAINER Shago Vyacheslav <v.shago@corpwebgames.com>
+MAINTAINER Nadjmeddine Boudjellal <ninoxdz@gmail.com>
 
 ADD requirements.txt /opt/
 
