@@ -40,6 +40,5 @@ RUN apt-get build-dep -y python-matplotlib
 
 RUN pip install -r /opt/requirements.txt && \
     pip install --pre xgboost && \
-    pip install certifi==2018.11.29
 
 RUN rm -rf /var/lib/apt/lists/*
