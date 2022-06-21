@@ -1,7 +1,7 @@
 dateTime==4.3
 Flask==1.0.2
 geoip2==2.9.0
-numpy==1.16.1
+numpy==1.22.0
 pandas==0.24.1
 phonenumbers==8.10.5
 pycountry==18.12.8
